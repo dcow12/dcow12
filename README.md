@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dillon, a second-year student at UVA majoring in Computer Engineering and Electrical Engineering.
+I'm Dillon, a second-year student at UVA majoring in Computer Science
 
 I enjoy building projects that include software and hardware and expanding them through programming and engineering. 
 I'm particularly interested in software development, artificial intelligence and embedded systems.
